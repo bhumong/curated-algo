@@ -1,0 +1,16 @@
+{
+    "name": "curated-algo",
+    "version": "0.0.1",
+    "description": "random curated algo",
+    "main": "index.js",
+    "repository": "https://github.com/bhumong/curated-algo.git",
+    "author": "bhumong",
+    "license": "MIT",
+    "dependencies": {},
+    "devDependencies": {
+        "mocha": "^9.2.0"
+    },
+    "scripts": {
+        "test": "mocha"
+    }
+}
