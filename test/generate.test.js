@@ -1,6 +1,6 @@
 const assert = require('assert');
 
-const { generateCharacter } = require('../generate')
+const { generateCharacter } = require('../src/generate')
 describe('generate.js', function () {
     it('generateCharacter should be 9', function () {
         const list = ['a', 'b', 'c']
