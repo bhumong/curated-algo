@@ -1,4 +1,4 @@
-const { Decimal } = require('../src/decimal')
+const { Decimal } = require('../decimal')
 const assert = require('assert');
 
 describe('decimal.js', function () {
